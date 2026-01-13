@@ -1,1 +1,2 @@
-# CV-for-OCR---PwC
+Computer Vision Project Doodles
+RAG pipelines 
